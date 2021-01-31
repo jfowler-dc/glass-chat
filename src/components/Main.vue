@@ -62,7 +62,7 @@ export default {
 	    chatUser: [],
 	    friends: [],
 	    userToken: '',
-	    serverKey: 'AAAAptiS450:APA91bGjuzXyQG49yepPvdrYO0lzxzj0Iv_9RrSMPqCTFlYhH3S_IZ2C4u2if8ebXUa1mpDeLpne5RyMKjsFnuxaAcIHb403Vhpaarupcf8gv9nG215x7fHCEYYHIlGdQJHIWN2nfAl3'
+	    serverKey: 'FIREBASE CLOUD MESSAGING SERVER KEY'
     }
   },
   methods: {

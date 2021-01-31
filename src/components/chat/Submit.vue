@@ -48,7 +48,7 @@ export default {
   			console.log('toast message here')
   		}
   	},
-  	sendNotification() {
+  	sendNotification() { // TURN THIS INTO A SERVER FUNCTION... SHOULD NOT BE RAN IN PRODUCTION
   		var key = this.serverKey;
 		var to = this.chatUser.notificationId;
 		var notification = {
